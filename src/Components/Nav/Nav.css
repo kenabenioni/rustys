@@ -1,0 +1,31 @@
+.Nav {
+    font-family: 'Oswald';
+    letter-spacing: 1px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+hr {
+    border: 1.5px solid black;
+}
+
+.titlenav {
+    display: flex;
+    justify-content: center;
+    width: 15vw;
+
+}
+#titletext {
+    font-weight: 100;
+}
+
+.leftnav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 50vw;
+}
+
+#navlinks {
+    font-weight: 100;
+}
