@@ -28,4 +28,16 @@ hr {
 
 #navlinks {
     font-weight: 100;
+    margin: 0;
+}
+
+a {
+ text-decoration: none;
+ color: black;
+
+}
+
+#navlinks:hover {
+    cursor: pointer;
+    color: rgb(194, 7, 7);
 }
