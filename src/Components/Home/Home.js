@@ -22,7 +22,7 @@ class Home extends Component {
             100% satisfaction. We’re dedicated to helping you spend more time
             enjoying the ride.
           </p>
-        <img src="http://www.rustylinc.com/ASSETS/R%20Carousel%20images/R5.jpg"/>
+        <img src="http://www.rustylinc.com/ASSETS/R%20Carousel%20images/R1.jpg"/>
         </div>
         <div className="home-right">
         <div className="hours">
@@ -42,7 +42,7 @@ class Home extends Component {
         <p>
         We partner with the best brands on the market in order to ensure that your bike leaves our shop in perfect condition. Below are several of the brands we distribute at Rustys :
         </p>
-        <img src="http://www.rustylinc.com/ASSETS/rustys_logos.png"/>
+        <img src="http://www.rustylinc.com/ASSETS/rustys_logos.png" className="home-img"/>
         </div>
         </div>
       </div>
