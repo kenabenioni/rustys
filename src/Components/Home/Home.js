@@ -24,6 +24,7 @@ class Home extends Component {
           </p>
         <img src="http://www.rustylinc.com/ASSETS/R%20Carousel%20images/R5.jpg"/>
         </div>
+        <div className="home-right">
         <div className="hours">
           <h3>BUSINESS HOURS</h3>
           <h5>TUES-FRI: 9:00 AM TO 6:00 PM</h5>
@@ -42,7 +43,7 @@ class Home extends Component {
         We partner with the best brands on the market in order to ensure that your bike leaves our shop in perfect condition. Below are several of the brands we distribute at Rustys :
         </p>
         <img src="http://www.rustylinc.com/ASSETS/rustys_logos.png"/>
-        
+        </div>
         </div>
       </div>
     );

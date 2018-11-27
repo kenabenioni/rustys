@@ -1,0 +1,26 @@
+.Home {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+h5 {
+    margin: 16px 0px 16px 0px;
+}
+
+.distribute {
+    width: 300px;
+}
+
+.about {
+    width: 700px;
+    height: 800px;
+    border: 3px solid black;
+    padding: 7px;
+}
+
+.hours {
+    width: 260px;
+    margin-bottom: 90px;
+    padding: 7px;
+    border: 3px solid black;
+}
