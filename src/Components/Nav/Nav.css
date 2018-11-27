@@ -1,5 +1,6 @@
 .Nav {
     font-family: 'Oswald';
+    height: 80px;
     letter-spacing: 1px;
     display: flex;
     justify-content: space-between;
@@ -7,6 +8,7 @@
 }
 hr {
     border: 1.5px solid black;
+    margin: 0;
 }
 .navwrapper {
     position: sticky;

@@ -9,6 +9,9 @@ class Home extends Component {
   render() {
     return (
       <div className="Home">
+      <div className="sample">
+      {/* <img src="http://www.rustylinc.com/ASSETS/R%20Carousel%20images/R1.jpg" className="sample"/> */}
+      </div>
         <div className="about">
           <h3>MOTORCYCLE SALES & REPAIRS</h3>
           <p>
